@@ -29,7 +29,7 @@ jobs:
         if: github.event_name != 'pull_request'
         with:
           branch: main
-          commit_author: "readme-crisautomata-bot"
+          commit_author: Author <actions@github.com>
           commit_message: "Apply automatic changes"
           commit_user_name: "crisautomata-bot"
-          commit_author: Author <actions@github.com>
+          
