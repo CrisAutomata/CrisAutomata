@@ -20,7 +20,7 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✓ merged
+- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (1 week ago)
 
 
 
@@ -41,35 +41,24 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-- [PR test](https://github.com/CrisAutomata/playwright-project/pull/1) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — ✓ merged
+- [PR test](https://github.com/CrisAutomata/playwright-project/pull/1) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — ✅ merged (3 months ago)
 
 
-- [Create manual.yml](https://github.com/CrisAutomata/demo-karate-framework/pull/1) → [CrisAutomata/demo-karate-framework](https://github.com/CrisAutomata/demo-karate-framework) — ✓ merged
+- [Create manual.yml](https://github.com/CrisAutomata/demo-karate-framework/pull/1) → [CrisAutomata/demo-karate-framework](https://github.com/CrisAutomata/demo-karate-framework) — ✅ merged (2 years ago)
 
 
-- [init/still contains unresolve issue](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber/pull/1) → [CrisAutomata/demo-serenity-bdd-cucumber](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber) — ✓ merged
+- [init/still contains unresolve issue](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber/pull/1) → [CrisAutomata/demo-serenity-bdd-cucumber](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber) — ✅ merged (2 years ago)
 
 #### 🚧 Open contributions
 
 
 
-- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — open
+- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (today)
 
 
 
 
-
-
-
-
-
-- [push and try](https://github.com/CrisAutomata/playwright-project/pull/2) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — open
-
-
-
-
-
-
+- [push and try](https://github.com/CrisAutomata/playwright-project/pull/2) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — ▶️ open (3 months ago)
 
 
 
