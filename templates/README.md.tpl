@@ -37,7 +37,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 {{if eq .State "OPEN"}}
 - [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — ▶️ open ({{humanize .CreatedAt}})
 {{- end}}
-{{- end}}
 
 #### 👨‍💻 Repositories I created recently
 {{range recentRepos 5}}
