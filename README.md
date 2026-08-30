@@ -19,7 +19,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-
 - 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (1 week ago)
 
 
@@ -50,7 +49,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 - [init/still contains unresolve issue](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber/pull/1) → [CrisAutomata/demo-serenity-bdd-cucumber](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber) — ✅ merged (2 years ago)
 
 #### 🚧 Open contributions
-
 
 
 - [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (today)
