@@ -23,12 +23,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-
-
-
-
-
-
 **Other contributions**
 
 
@@ -38,15 +32,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-
-
-- [PR test](https://github.com/CrisAutomata/playwright-project/pull/1) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — ✅ merged (3 months ago)
-
-
-- [Create manual.yml](https://github.com/CrisAutomata/demo-karate-framework/pull/1) → [CrisAutomata/demo-karate-framework](https://github.com/CrisAutomata/demo-karate-framework) — ✅ merged (2 years ago)
-
-
-- [init/still contains unresolve issue](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber/pull/1) → [CrisAutomata/demo-serenity-bdd-cucumber](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber) — ✅ merged (2 years ago)
 
 #### 🚧 Open contributions
 
@@ -58,5 +43,10 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 - [push and try](https://github.com/CrisAutomata/playwright-project/pull/2) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — ▶️ open (3 months ago)
 
+#### 👨‍💻 Repositories I created recently
 
-
+- [CrisAutomata/pocketvault_exp](https://github.com/CrisAutomata/pocketvault_exp)
+- [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project)
+- [CrisAutomata/CUSTOM_FUNCTION_CALLING](https://github.com/CrisAutomata/CUSTOM_FUNCTION_CALLING)
+- [CrisAutomata/crisautomata.github.io](https://github.com/CrisAutomata/crisautomata.github.io)
+- [CrisAutomata/weather-newtab](https://github.com/CrisAutomata/weather-newtab)
