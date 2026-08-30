@@ -23,16 +23,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-**Other contributions**
-
-
-
-
-
-
-
-
-
 #### 🚧 Open contributions
 
 
