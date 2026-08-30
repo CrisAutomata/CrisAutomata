@@ -16,7 +16,17 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 #### 🏆 Recent contributions that made it in
 {{range recentPullRequests 10}}
 {{if eq .State "MERGED"}}
-{{if not (hasPrefix .Repo.URL "https://github.com/CrisAutomata/")}}
+{{if eq .Repo.URL "https://github.com/Homebrew/homebrew-core"}}
+- 🍺 **[{{.Title}}]({{.URL}})** → [Homebrew/homebrew-core]({{.Repo.URL}}) — ✅ merged ({{humanize .CreatedAt}})
+{{- end}}
+{{- end}}
+{{- end}}
+
+**Other contributions**
+
+{{range recentPullRequests 10}}
+{{if eq .State "MERGED"}}
+{{if ne .Repo.URL "https://github.com/Homebrew/homebrew-core"}}
 - [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — ✅ merged ({{humanize .CreatedAt}})
 {{- end}}
 {{- end}}
@@ -25,7 +35,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 #### 🚧 Open contributions
 {{range recentPullRequests 10}}
 {{if eq .State "OPEN"}}
-{{if not (hasPrefix .Repo.URL "https://github.com/CrisAutomata/")}}
 - [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — ▶️ open ({{humanize .CreatedAt}})
 {{- end}}
 {{- end}}
