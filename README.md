@@ -12,7 +12,11 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 - 🔐 **PocketVault** : A personal vault for your own diary, images, videos, whatever — that stays on yours USB, HDD, SSD instead of living in someone else's cloud. - under active development 🗿
 - 🔥 [**Burn After Reading**](https://burn-after-reading-flame.vercel.app/): A digital letter that will be burned after 3s from the opening. - publised 🚀
 
+
 #### 🏆 Recent contributions that made it in
+
+
+
 
 
 
@@ -22,21 +26,55 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
+
+
+
+
+
+
 - [PR test](https://github.com/CrisAutomata/playwright-project/pull/1) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — merged
+
+
+
+
 
 - [Create manual.yml](https://github.com/CrisAutomata/demo-karate-framework/pull/1) → [CrisAutomata/demo-karate-framework](https://github.com/CrisAutomata/demo-karate-framework) — merged
 
+
+
+
+
 - [init/still contains unresolve issue](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber/pull/1) → [CrisAutomata/demo-serenity-bdd-cucumber](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber) — merged
 
-#### 🚧 Open contributions
-
-
-
-- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — open
 
 
 
 
-- [push and try](https://github.com/CrisAutomata/playwright-project/pull/2) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — open
+#### 🍺 Open source contributions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
