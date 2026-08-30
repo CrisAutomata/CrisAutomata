@@ -14,7 +14,7 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 #### 🏆 Recent contributions that made it in
-{{range recentPullRequests 10}}
+{{range recentPullRequests 5}}
 {{if eq .State "MERGED"}}
 {{if eq .Repo.URL "https://github.com/Homebrew/homebrew-core"}}
 - 🍺 **[{{.Title}}]({{.URL}})** → [Homebrew/homebrew-core]({{.Repo.URL}}) — ✅ merged ({{humanize .CreatedAt}})
@@ -24,7 +24,7 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 **Other contributions**
 
-{{range recentPullRequests 10}}
+{{range recentPullRequests 5}}
 {{if eq .State "MERGED"}}
 {{if ne .Repo.URL "https://github.com/Homebrew/homebrew-core"}}
 - [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — ✅ merged ({{humanize .CreatedAt}})
@@ -33,8 +33,13 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 {{- end}}
 
 #### 🚧 Open contributions
-{{range recentPullRequests 10}}
+{{range recentPullRequests 5}}
 {{if eq .State "OPEN"}}
 - [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — ▶️ open ({{humanize .CreatedAt}})
 {{- end}}
+{{- end}}
+
+#### 👨‍💻 Repositories I created recently
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
