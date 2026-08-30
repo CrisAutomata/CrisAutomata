@@ -22,16 +22,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 {{- end}}
 {{- end}}
 
-**Other contributions**
-
-{{range recentPullRequests 5}}
-{{if eq .State "MERGED"}}
-{{if ne .Repo.URL "https://github.com/Homebrew/homebrew-core"}}
-- [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — ✅ merged ({{humanize .CreatedAt}})
-{{- end}}
-{{- end}}
-{{- end}}
-
 #### 🚧 Open contributions
 {{range recentPullRequests 5}}
 {{if eq .State "OPEN"}}
