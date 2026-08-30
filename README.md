@@ -22,35 +22,6 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-- [obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250) → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — merged
-
-
-
-
-
-
-
-
-
-- [PR test](https://github.com/CrisAutomata/playwright-project/pull/1) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — merged
-
-
-
-
-
-- [Create manual.yml](https://github.com/CrisAutomata/demo-karate-framework/pull/1) → [CrisAutomata/demo-karate-framework](https://github.com/CrisAutomata/demo-karate-framework) — merged
-
-
-
-
-
-- [init/still contains unresolve issue](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber/pull/1) → [CrisAutomata/demo-serenity-bdd-cucumber](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber) — merged
-
-
-
-
-
-#### 🍺 Open source contributions
 
 
 
@@ -69,6 +40,58 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
+
+**Other contributions**
+
+
+
+
+
+
+
+
+- [obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250) → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✓ merged
+
+
+
+
+
+
+
+
+
+- [PR test](https://github.com/CrisAutomata/playwright-project/pull/1) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — ✓ merged
+
+
+
+
+
+- [Create manual.yml](https://github.com/CrisAutomata/demo-karate-framework/pull/1) → [CrisAutomata/demo-karate-framework](https://github.com/CrisAutomata/demo-karate-framework) — ✓ merged
+
+
+
+
+
+- [init/still contains unresolve issue](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber/pull/1) → [CrisAutomata/demo-serenity-bdd-cucumber](https://github.com/CrisAutomata/demo-serenity-bdd-cucumber) — ✓ merged
+
+
+
+
+#### 🚧 Open contributions
+
+
+
+- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — open
+
+
+
+
+
+
+
+
+
+- [push and try](https://github.com/CrisAutomata/playwright-project/pull/2) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — open
 
 
 
