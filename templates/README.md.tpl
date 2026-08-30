@@ -14,22 +14,16 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 #### 🏆 Recent contributions that made it in
 
-{{range recentMergedContributions 10}}
-- **[{{.Title}}]({{.URL}})** → [{{.Repo.Name}}]({{.Repo.URL}})
-  ✓ merged {{humanize .MergedAt}}
-
-  {{range .FollowUpPRs}}
-  - 🤖 [{{.Title}}]({{.URL}}) by {{.Author.Login}}
-  {{- end}}
-
-  {{with .Homebrew}}
-  - 🍺 [Available on Homebrew]({{.URL}}) — `brew install {{.Name}}`
-  {{- end}}
+{{range recentPullRequests 10}}
+{{if eq .State "MERGED"}}
+- [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — merged
+{{- end}}
 {{- end}}
 
-#### 🚧 Open & draft contributions
+#### 🚧 Open contributions
 
-{{range recentOpenPullRequests 10}}
-- [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}})
-  {{if .IsDraft}}— draft{{else}}— open{{end}}
+{{range recentPullRequests 10}}
+{{if eq .State "OPEN"}}
+- [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — open
+{{- end}}
 {{- end}}
