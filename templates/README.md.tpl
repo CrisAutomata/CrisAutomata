@@ -17,23 +17,21 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 {{range recentPullRequests 10}}
 {{if eq .State "MERGED"}}
-{{if eq .Repo.Name "homebrew-core"}}
-🍺 **Homebrew**
-- [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — ✓ merged
-  — `brew install obscura`
-{{end}}
-{{end}}
-{{end}}
+{{if eq .Repo.URL "https://github.com/Homebrew/homebrew-core"}}
+- 🍺 **[{{.Title}}]({{.URL}})** → [Homebrew/homebrew-core]({{.Repo.URL}}) — ✓ merged
+{{- end}}
+{{- end}}
+{{- end}}
 
 **Other contributions**
 
 {{range recentPullRequests 10}}
 {{if eq .State "MERGED"}}
-{{if ne .Repo.Name "homebrew-core"}}
+{{if ne .Repo.URL "https://github.com/Homebrew/homebrew-core"}}
 - [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) — ✓ merged
-{{end}}
-{{end}}
-{{end}}
+{{- end}}
+{{- end}}
+{{- end}}
 
 #### 🚧 Open contributions
 
