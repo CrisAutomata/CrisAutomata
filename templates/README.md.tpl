@@ -12,38 +12,24 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 - 🔐 **PocketVault** : A personal vault for your own diary, images, videos, whatever — that stays on yours USB, HDD, SSD instead of living in someone else's cloud. - under active development 🗿
 - 🔥 [**Burn After Reading**](https://burn-after-reading-flame.vercel.app/): A digital letter that will be burned after 3s from the opening. - publised 🚀
 
-#### 🏆 Contributions that made it in
-
-- **Obscura → Homebrew**
-  - [Add obscura 0.2.0](...) — merged
-  - 🍺 [Available on Homebrew](https://formulae.brew.sh/formula/obscura)
-  - `brew install obscura`
-
-
 #### 🏆 Recent contributions that made it in
-{{range recentPullRequests 10}}
-{{if eq .State "MERGED"}}
-- [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{end}}
+
+{{range recentMergedContributions 10}}
+- **[{{.Title}}]({{.URL}})** → [{{.Repo.Name}}]({{.Repo.URL}})
+  ✓ merged {{humanize .MergedAt}}
+
+  {{range .FollowUpPRs}}
+  - 🤖 [{{.Title}}]({{.URL}}) by {{.Author.Login}}
+  {{- end}}
+
+  {{with .Homebrew}}
+  - 🍺 [Available on Homebrew]({{.URL}}) — `brew install {{.Name}}`
+  {{- end}}
 {{- end}}
-
-{{range mergedContributions 10}}
-
-### {{.Title}}
-
-[{{.Repo.Name}}]({{.Repo.URL}})
-
-✓ merged {{humanize .MergedAt}}
-
-{{range .FollowUpPRs}}
-- 🤖 [{{.Title}}]({{.URL}}) by {{.Author.Login}}
-{{end}}
-
-{{end}}
 
 #### 🚧 Open & draft contributions
 
 {{range recentOpenPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
+- [{{.Title}}]({{.URL}}) → [{{.Repo.Name}}]({{.Repo.URL}})
   {{if .IsDraft}}— draft{{else}}— open{{end}}
 {{- end}}
