@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1'
+  push:
+    branches:
+      - 'main'
+  pull_request:
+    branches:
+      - 'main'
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        if: github.event_name != 'pull_request'
+        with:
+          branch: main
+          commit_author: "readme-crisautomata-bot"
+          commit_message: "Apply automatic changes"
+          commit_user_name: "crisautomata-bot"
+          commit_user_email: crisautomata-bot@github.com
