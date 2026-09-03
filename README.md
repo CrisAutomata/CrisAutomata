@@ -7,6 +7,10 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 - **Posthog**: Professional monitoring app for long term product development
 - **Paper** : My favorite design tool, it boots both designing + coding skill
 - **Linux** : NixOs, Ubuntu. I'm not a big fan of Window but I don't hate it btw
+  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,astro,workers,cloudflare,githubactions,ubuntu,nix,postgres,sqlite" />
+</div>
 
 #### My markdown product (just experiment, still in progress):
 - 🔐 **PocketVault** : A personal vault for your own diary, images, videos, whatever — that stays on yours USB, HDD, SSD instead of living in someone else's cloud. - under active development 🗿
