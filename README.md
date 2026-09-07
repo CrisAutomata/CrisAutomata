@@ -22,14 +22,14 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (1 week ago)
+- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (2 weeks ago)
 
 
 
 #### 🚧 Open contributions
 
 
-- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (4 days ago)
+- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (1 week ago)
 
 
 
