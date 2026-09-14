@@ -22,19 +22,19 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (2 weeks ago)
 
 
+- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (3 weeks ago)
 
 #### 🚧 Open contributions
 
 
-- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (1 week ago)
+- [recordly: 1.4.0](https://github.com/CrisAutomata/homebrew-cask/pull/2) → [CrisAutomata/homebrew-cask](https://github.com/CrisAutomata/homebrew-cask) — ▶️ open (5 days ago)
 
 
+- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (2 weeks ago)
 
 
-- [push and try](https://github.com/CrisAutomata/playwright-project/pull/2) → [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project) — ▶️ open (3 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
