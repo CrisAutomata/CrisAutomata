@@ -24,22 +24,22 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (4 weeks ago)
+- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (1 month ago)
 
 #### 🚧 Open contributions
 
 
-- [recordly: 1.4.0](https://github.com/CrisAutomata/homebrew-cask/pull/2) → [CrisAutomata/homebrew-cask](https://github.com/CrisAutomata/homebrew-cask) — ▶️ open (1 week ago)
+- [recordly: 1.4.0](https://github.com/CrisAutomata/homebrew-cask/pull/2) → [CrisAutomata/homebrew-cask](https://github.com/CrisAutomata/homebrew-cask) — ▶️ open (2 weeks ago)
 
 
-- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (3 weeks ago)
+- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (4 weeks ago)
 
 
 
 #### 👨‍💻 Repositories I created recently
 
+- [CrisAutomata/pocketvault](https://github.com/CrisAutomata/pocketvault)
 - [CrisAutomata/pocketvault_exp](https://github.com/CrisAutomata/pocketvault_exp)
 - [CrisAutomata/playwright-project](https://github.com/CrisAutomata/playwright-project)
 - [CrisAutomata/CUSTOM_FUNCTION_CALLING](https://github.com/CrisAutomata/CUSTOM_FUNCTION_CALLING)
 - [CrisAutomata/crisautomata.github.io](https://github.com/CrisAutomata/crisautomata.github.io)
-- [CrisAutomata/weather-newtab](https://github.com/CrisAutomata/weather-newtab)
