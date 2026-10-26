@@ -24,7 +24,7 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 
 
 
-- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (1 month ago)
+- 🍺 **[obscura 0.2.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/300250)** → [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) — ✅ merged (2 months ago)
 
 #### 🚧 Open contributions
 
