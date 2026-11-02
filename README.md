@@ -32,7 +32,7 @@ Most of my code lives in private repos, some of them are publics, sorry not sorr
 - [recordly: 1.4.0](https://github.com/CrisAutomata/homebrew-cask/pull/2) → [CrisAutomata/homebrew-cask](https://github.com/CrisAutomata/homebrew-cask) — ▶️ open (1 month ago)
 
 
-- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (1 month ago)
+- [paper-design: init at 0.5.6](https://github.com/NixOS/nixpkgs/pull/557946) → [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) — ▶️ open (2 months ago)
 
 
 
